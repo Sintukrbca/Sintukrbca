@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
           and web development.
 - 🌱 I’m currently learning coding
--      (c,c++,java,HTML)
+-      (c,c++,java,HTML,CSS,JavaScript)
 - 💞️ I’m looking to collaborate on??
 - 📫 How to reach me :- sintukumarraj3082@gmail.com 
 - 😄 Pronouns: ...
