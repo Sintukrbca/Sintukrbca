@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sintukr
+- 👋 Hi, I’m @Sintukrbca
 - 👀 I’m interested in software development
           and web development.
 - 🌱 I’m currently learning coding
